@@ -76,12 +76,7 @@ Generated samples are saved into:
 - Compared stability using generator/discriminator loss trends and visual sample progression across epochs.
 - In these experiments, the **LeakyReLU** variant produced more stable training and better sample quality than the ReLU variant.
 
-## Suggested Improvements (optional, recruiter-friendly)
-- Add `requirements.txt` for one-command setup
-- Add a `train.py` script + `config.yaml` for reproducible runs outside notebooks
-- Add experiment tracking (TensorBoard / Weights & Biases)
-- Add a quantitative image metric (e.g., FID) if feasible
-- Add `docs/` with a few representative sample images in the README
+
 
 ## License
 Add a license if you plan to share broadly (MIT is common).
